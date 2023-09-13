@@ -15,3 +15,5 @@ function App() {
 
 // 5) Show the component on the screen
 root.render(<App />);
+
+// babeljs.io/repl
